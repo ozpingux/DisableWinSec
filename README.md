@@ -5,4 +5,4 @@ script created for research and laboratory purposes only.  I am not responsible 
 
 works on some older versions of Windows 10.
 
-Some security features are disabled in Windows 10 updated and Windows 11.
+Some security features are disabled in Windows 10 updated.
